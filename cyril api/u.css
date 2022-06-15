@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.blogimage{
+    height: 10vh;
+    width: 15vw;
+    padding: 10%;
+} 
